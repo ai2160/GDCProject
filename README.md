@@ -15,7 +15,7 @@
 * When the function returns, global environment has a variable 'result' where the result is stored
 
 
-####How does the script work
+####How does the script works
 * Extract column names for sensor data and activity labels from files
   * Script reads features.txt file
   * Extracts the column names and saves it for future use

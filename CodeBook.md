@@ -1,11 +1,14 @@
 
-The data is gathered from 30 volunteers in an experiment to recognize human actiivity. Full details of the experiment can be seen [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](here)
+The data is gathered from 30 volunteers in an experiment to recognize human actiivity. Full details of the experiment can be seen [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Data here combines data from test and training sets. Then the data is grouped by subject and the activity. Measurements of original data and derived vectors as described in link above are averaged by subject and activity.
 
  [1] Subject - A number to identify the volunteer.
+ 
  [2] Activity - Activity these measurements correspond to.
- [3 - 68] 
+ 
+ [3 - 68]
+ 
  "AVG tBodyAcc-mean()-X"           "AVG tBodyAcc-mean()-Y"          
  "AVG tBodyAcc-mean()-Z"           "AVG tGravityAcc-mean()-X"       
  "AVG tGravityAcc-mean()-Y"        "AVG tGravityAcc-mean()-Z"       
@@ -40,4 +43,4 @@ Data here combines data from test and training sets. Then the data is grouped by
  "AVG fBodyAccMag-std()"           "AVG fBodyBodyAccJerkMag-std()"  
  "AVG fBodyBodyGyroMag-std()"      "AVG fBodyBodyGyroJerkMag-std()" 
  
- All of these measurements correspond to original sensor data processed to remove noise and derived measurements as described [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](here)
+ All of these measurements correspond to original sensor data processed to remove noise and derived measurements as described  [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
